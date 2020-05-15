@@ -1,6 +1,6 @@
 # Face-Mask-Detection
 
-real time face mask detection on webcam.
+Real time face mask detection on webcam.
 
 If you want to use this, you don't need to train the model (Though training time was really less even on CPU). Model weights are already provided. My best result was with 0.02 loss and 0.022 val_loss and 0.9972 accuracy. So just directly run detect.py.
 
